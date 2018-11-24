@@ -7,8 +7,8 @@ Servo dropServo;
 int led_pin = 13;
 int buzzer_pin = 9;
 
-int dropTime = 500;//ms
-int airPumpTime = 5000;//ms
+int dropTime = 300;//ms
+int airPumpTime = 3500;//ms
 
 //blue servo
 int dropServoHold = 60;//degrees
@@ -16,7 +16,7 @@ int dropServoDrop = 0;//degrees
 
 //black servo
 int airServoClosed = 20;//degrees
-int airServoOpen = 50;//degrees
+int airServoOpen = 60;//degrees
 
 void setup() {
   pinMode(buzzer_pin, OUTPUT);
