@@ -6,8 +6,7 @@ The life belt has a small gas tank which inflates it as soon as it hits the wate
 
 In our implementation we used an Android phone which gives the life belt a command to release the drone and wait the free falling time until inflation begins.
 
-![IMAGE Description](https://raw.githubusercontent.com/ValkA/SmartLifeBelt/cec154c86c8730e95a4d4a708c5566a34579c88c
-/description.png)
+![IMAGE Description](https://raw.githubusercontent.com/ValkA/SmartLifeBelt/cec154c86c8730e95a4d4a708c5566a34579c88c/description.png)
 
 Video of the module in action can be seen in this YouTube video:
 [![IMAGE Video Demo](https://img.youtube.com/vi/i0XcbujrOLA/0.jpg)](https://youtu.be/i0XcbujrOLA)
